@@ -9,4 +9,9 @@ button{
 input{
     border-color: chartreuse;
 }
+img{
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+}
 
